@@ -11,7 +11,7 @@ import { AuthGuard } from './auth-guard.service';
 
 let providers = {
   "google": {
-    "clientId": "783541848322-fejsuieen9b8n5c9otcdlo7anllbk32o.apps.googleusercontent.com"
+    "clientId": "<your_clientId_on_google>.apps.googleusercontent.com"
   }
   // ,
   // "linkedin": {
